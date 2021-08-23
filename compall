@@ -1,0 +1,3 @@
+gcc vRiElnumN.c -lm -o generate_paths.exe
+gcc vRiElnumN--vid.c -lm -o generate_video.exe
+gcc vRiElnumNerror.c -lm -o AbsError_estimate.exe

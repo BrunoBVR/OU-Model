@@ -1,0 +1,16 @@
+1000
+0
+68
+0.0
+1.0
+1.0
+1
+
+
+nt			: number of time steps
+p			: number of velocity components
+seed		: seed for random number generator
+ti			: initial time
+tf			: final time
+c1			: initial condition for V_1
+fchoice		: choice of figure extension -> 0: eps ; 1: png
